@@ -1,2 +1,3 @@
 # backend-node
-Simplest Express app repo for CI-CD testing purposes
+
+Simplest Express App repository for CI-CD testing purposes.
