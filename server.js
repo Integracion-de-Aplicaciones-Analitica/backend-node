@@ -4,7 +4,7 @@ const port = 8080
 
 
 app.get('/', (req, res) => {
-  res.send('Testeando CI-CD!')
+  res.send('Probando CI-CD!')
 })
 
 app.listen(port, () => {
